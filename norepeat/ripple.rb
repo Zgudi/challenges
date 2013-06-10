@@ -21,7 +21,7 @@ class Ripple
 
 end
 
-w = Ripple.new("ttommorow")
+w = Ripple.new("ddduuckkcccuuiipsjjjjjjj")
 puts w.repeated_char
 
 
